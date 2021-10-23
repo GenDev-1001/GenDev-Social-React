@@ -1,0 +1,8 @@
+.dialogsItem a {
+    text-decoration: none;
+    color: black;
+}
+
+.dialogsItem a.activeLink{
+    color: deeppink;
+}

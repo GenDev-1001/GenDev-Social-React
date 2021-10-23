@@ -1,0 +1,21 @@
+.nav{
+    grid-area: nav;
+    background-color: lightcyan;
+    padding-top: 20px;
+}
+
+.item{
+    margin-left: 10px;
+    margin-bottom: 10px;
+
+}
+
+
+.item a{
+    color: darkblue;
+    text-decoration: none;
+}
+
+.item a.activeLink{
+    color: deeppink;
+}

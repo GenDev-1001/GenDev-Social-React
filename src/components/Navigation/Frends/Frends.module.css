@@ -1,0 +1,12 @@
+h5{
+    margin-top: 50px;
+    text-align: center;
+    color: darkblue;
+    text-transform: uppercase;
+}
+
+.frendsWrapper{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10px;
+}
