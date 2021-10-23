@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/GenDev-Social-React/static/css/main.88ed0e4f.chunk.css",
-    "main.js": "/GenDev-Social-React/static/js/main.3e78b301.chunk.js",
-    "main.js.map": "/GenDev-Social-React/static/js/main.3e78b301.chunk.js.map",
-    "runtime-main.js": "/GenDev-Social-React/static/js/runtime-main.b49d9626.js",
-    "runtime-main.js.map": "/GenDev-Social-React/static/js/runtime-main.b49d9626.js.map",
+    "main.js": "/GenDev-Social-React/static/js/main.0e4cfadf.chunk.js",
+    "main.js.map": "/GenDev-Social-React/static/js/main.0e4cfadf.chunk.js.map",
+    "runtime-main.js": "/GenDev-Social-React/static/js/runtime-main.23707a5c.js",
+    "runtime-main.js.map": "/GenDev-Social-React/static/js/runtime-main.23707a5c.js.map",
     "static/css/2.a95be28f.chunk.css": "/GenDev-Social-React/static/css/2.a95be28f.chunk.css",
-    "static/js/2.bd35c5ef.chunk.js": "/GenDev-Social-React/static/js/2.bd35c5ef.chunk.js",
-    "static/js/2.bd35c5ef.chunk.js.map": "/GenDev-Social-React/static/js/2.bd35c5ef.chunk.js.map",
+    "static/js/2.4d610604.chunk.js": "/GenDev-Social-React/static/js/2.4d610604.chunk.js",
+    "static/js/2.4d610604.chunk.js.map": "/GenDev-Social-React/static/js/2.4d610604.chunk.js.map",
     "static/css/3.74e46213.chunk.css": "/GenDev-Social-React/static/css/3.74e46213.chunk.css",
     "static/js/3.4c6fa06b.chunk.js": "/GenDev-Social-React/static/js/3.4c6fa06b.chunk.js",
     "static/js/3.4c6fa06b.chunk.js.map": "/GenDev-Social-React/static/js/3.4c6fa06b.chunk.js.map",
     "static/css/4.af3a41f4.chunk.css": "/GenDev-Social-React/static/css/4.af3a41f4.chunk.css",
-    "static/js/4.33c10dd5.chunk.js": "/GenDev-Social-React/static/js/4.33c10dd5.chunk.js",
-    "static/js/4.33c10dd5.chunk.js.map": "/GenDev-Social-React/static/js/4.33c10dd5.chunk.js.map",
+    "static/js/4.0a2e8a59.chunk.js": "/GenDev-Social-React/static/js/4.0a2e8a59.chunk.js",
+    "static/js/4.0a2e8a59.chunk.js.map": "/GenDev-Social-React/static/js/4.0a2e8a59.chunk.js.map",
     "static/js/5.ffa5a44e.chunk.js": "/GenDev-Social-React/static/js/5.ffa5a44e.chunk.js",
     "static/js/5.ffa5a44e.chunk.js.map": "/GenDev-Social-React/static/js/5.ffa5a44e.chunk.js.map",
     "static/js/6.cb88eb25.chunk.js": "/GenDev-Social-React/static/js/6.cb88eb25.chunk.js",
@@ -23,15 +23,15 @@
     "static/css/3.74e46213.chunk.css.map": "/GenDev-Social-React/static/css/3.74e46213.chunk.css.map",
     "static/css/4.af3a41f4.chunk.css.map": "/GenDev-Social-React/static/css/4.af3a41f4.chunk.css.map",
     "static/css/main.88ed0e4f.chunk.css.map": "/GenDev-Social-React/static/css/main.88ed0e4f.chunk.css.map",
-    "static/js/2.bd35c5ef.chunk.js.LICENSE.txt": "/GenDev-Social-React/static/js/2.bd35c5ef.chunk.js.LICENSE.txt",
+    "static/js/2.4d610604.chunk.js.LICENSE.txt": "/GenDev-Social-React/static/js/2.4d610604.chunk.js.LICENSE.txt",
     "static/media/Wedges-3s-200px.d48bebd8.svg": "/GenDev-Social-React/static/media/Wedges-3s-200px.d48bebd8.svg",
     "static/media/user.png": "/GenDev-Social-React/static/media/user.998e6aeb.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b49d9626.js",
+    "static/js/runtime-main.23707a5c.js",
     "static/css/2.a95be28f.chunk.css",
-    "static/js/2.bd35c5ef.chunk.js",
+    "static/js/2.4d610604.chunk.js",
     "static/css/main.88ed0e4f.chunk.css",
-    "static/js/main.3e78b301.chunk.js"
+    "static/js/main.0e4cfadf.chunk.js"
   ]
 }
